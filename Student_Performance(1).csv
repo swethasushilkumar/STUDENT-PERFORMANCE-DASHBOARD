@@ -1,0 +1,61 @@
+Student ID,Gender,Department,Course,City,Exam Marks,Attendance Percentage,Study Hours Per Day
+S001,Female,Computer Science,BCA,Kochi,88,92,5.5
+S002,Male,Computer Science,BCA,Thrissur,76,85,4.0
+S003,Female,Business Administration,BBA,Kozhikode,91,96,6.0
+S004,Male,Engineering,BTech,Kochi,84,89,5.0
+S005,Female,Arts,BA English,Thrissur,72,81,3.5
+S006,Male,Computer Science,BCA,Malappuram,79,88,4.5
+S007,Female,Commerce,BCom,Kochi,86,93,5.0
+S008,Male,Business Administration,BBA,Ernakulam,68,76,3.0
+S009,Female,Engineering,BTech,Kollam,95,98,6.5
+S010,Male,Commerce,BCom,Thrissur,74,83,4.0
+S011,Female,Computer Science,BCA,Kochi,89,94,5.5
+S012,Male,Engineering,BTech,Palakkad,82,87,4.5
+S013,Female,Business Administration,BBA,Malappuram,93,95,6.0
+S014,Male,Arts,BA English,Kozhikode,65,74,2.5
+S015,Female,Commerce,BCom,Ernakulam,87,91,5.0
+S016,Male,Computer Science,BCA,Thrissur,81,86,4.5
+S017,Female,Engineering,BTech,Kochi,90,97,6.0
+S018,Male,Business Administration,BBA,Kollam,73,79,3.5
+S019,Female,Computer Science,BCA,Palakkad,85,90,5.0
+S020,Male,Commerce,BCom,Malappuram,77,84,4.0
+S021,Female,Arts,BA English,Kochi,80,88,4.5
+S022,Male,Engineering,BTech,Thrissur,86,92,5.0
+S023,Female,Business Administration,BBA,Kozhikode,94,97,6.5
+S024,Male,Computer Science,BCA,Ernakulam,78,82,4.0
+S025,Female,Commerce,BCom,Kochi,83,89,4.5
+S026,Male,Engineering,BTech,Palakkad,71,78,3.0
+S027,Female,Computer Science,BCA,Thrissur,92,96,6.0
+S028,Male,Business Administration,BBA,Malappuram,75,80,3.5
+S029,Female,Engineering,BTech,Kollam,88,94,5.5
+S030,Male,Arts,BA English,Kozhikode,69,77,3.0
+S031,Female,Computer Science,BCA,Kochi,90,95,6.0
+S032,Male,Commerce,BCom,Thrissur,80,86,4.5
+S033,Female,Business Administration,BBA,Ernakulam,89,93,5.5
+S034,Male,Engineering,BTech,Kochi,83,88,4.5
+S035,Female,Arts,BA English,Palakkad,76,84,4.0
+S036,Male,Computer Science,BCA,Malappuram,85,90,5.0
+S037,Female,Commerce,BCom,Kochi,91,96,6.0
+S038,Male,Business Administration,BBA,Kollam,72,78,3.0
+S039,Female,Engineering,BTech,Thrissur,96,99,7.0
+S040,Male,Computer Science,BCA,Ernakulam,79,85,4.0
+S041,Female,Business Administration,BBA,Kochi,92,95,6.0
+S042,Male,Arts,BA English,Kozhikode,67,75,2.5
+S043,Female,Commerce,BCom,Malappuram,84,90,5.0
+S044,Male,Engineering,BTech,Palakkad,87,91,5.0
+S045,Female,Computer Science,BCA,Kochi,93,97,6.5
+S046,Male,Business Administration,BBA,Thrissur,76,82,3.5
+S047,Female,Engineering,BTech,Kollam,89,94,5.5
+S048,Male,Commerce,BCom,Ernakulam,73,81,3.5
+S049,Female,Computer Science,BCA,Kochi,86,92,5.0
+S050,Male,Engineering,BTech,Thrissur,81,87,4.5
+S051,Female,Business Administration,BBA,Kozhikode,95,98,7.0
+S052,Male,Computer Science,BCA,Malappuram,77,83,4.0
+S053,Female,Commerce,BCom,Kochi,88,93,5.5
+S054,Male,Arts,BA English,Palakkad,70,79,3.0
+S055,Female,Engineering,BTech,Kochi,94,98,6.5
+S056,Male,Business Administration,BBA,Thrissur,74,80,3.5
+S057,Female,Computer Science,BCA,Ernakulam,91,95,6.0
+S058,Male,Commerce,BCom,Kozhikode,78,85,4.0
+S059,Female,Engineering,BTech,Kollam,90,96,6.0
+S060,Female,Computer Science,BCA,Kochi,97,99,7.0
